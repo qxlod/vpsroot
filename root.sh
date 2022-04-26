@@ -40,6 +40,6 @@ else
 red "未输入相关字符，启用root账户或root密码更改失败" 
 fi
 else
-red "当前vps不支持root账户或无法自定义root密码" 
+red "当前vps不支持root账户或无法自定义root密码,建议先执行sudo -i 进入root账户后再执行脚本" 
 fi
 rm -rf root.sh
