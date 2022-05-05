@@ -7,3 +7,8 @@ wget -N https://raw.githubusercontents.com/kkkyg/vpsroot/main/root.sh && bash ro
 ```
 
 相关说明请查看[甬哥博客](https://kkkyg.blogspot.com/2022/02/vpsrootrooteuservhax-ipv6oraclegpcibm.html)
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/kkkyg/vpsroot.svg)](https://starchart.cc/kkkyg/vpsroot)
