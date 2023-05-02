@@ -3,7 +3,7 @@
 一键脚本：
 
 ```
-wget -N https://github.com/qxlod/vpsroot/main/root.sh && bash root.sh
+wget -N https://github.com/qxlod/vpsroot/blob/main/root.sh && bash root.sh
 
 ```
 
